@@ -1,2 +1,2 @@
 # serverminecraft
-https://MikiiLe.github.io/LináTrojka_project/
+https://MikiiLe.github.io/serverminecraft/
